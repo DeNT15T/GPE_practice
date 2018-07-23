@@ -1,3 +1,3 @@
 # GPE_practice
-just some practice\n
+some practice
 huehuehuehue
